@@ -1,4 +1,10 @@
-// Badminton Shuttlecock Launcher
+/*
+Name: Shaan Nabi
+Part 1: Intelligent Agents
+Question 2: Agent Implementation
+Badminton Shuttlecock Launcher
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
